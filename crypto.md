@@ -1,7 +1,6 @@
 # Useful CRYPTO commands
 ```
-tar cz folder_to_encrypt | \
-      openssl enc -aes-256-cbc -e > out.tar.gz.enc
+tar cz folder_to_encrypt | openssl enc -aes-256-cbc -e > out.tar.gz.enc
 ```
 
 Encrypto folder with password (in tar file)
