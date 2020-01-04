@@ -1,4 +1,4 @@
-# useful-bash-commands (Linux - Ubuntu)
+# useful-bash-commands (Linux - Ubuntu / CentOS)
 Grouped lists of useful bash command
 ## C
 1. [Crypto Commands](https://github.com/mxss/useful-bash-commands/blob/master/crypto.md)
